@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SEDC.Oop.Homeworks.Classes.Hogwarts/1.0.0": {
+        "runtime": {
+          "SEDC.Oop.Homeworks.Classes.Hogwarts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.Oop.Homeworks.Classes.Hogwarts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
